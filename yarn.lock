@@ -1538,6 +1538,16 @@ polka@next:
     "@polka/url" "^1.0.0-next.11"
     trouter "^3.1.0"
 
+prettier-plugin-svelte@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-1.1.0.tgz#e6ec282d8457598b0c02164083b11ad8cb8ab304"
+  integrity sha512-wmIggG/ryV0wcmE9D5p+k5TwKDpS2SGKJpF6IV1aYHK7dkBJD+di1w47Ci00DRsI4RrXZRC2Ef37DSyrTb6Zqg==
+
+prettier@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.0.5.tgz#d6d56282455243f2f92cc1716692c08aa31522d4"
+  integrity sha512-7PtVymN48hGcO4fGjybyBSIWDsLU4H4XlvOHfq91pz9kkGlonzwTfYkaIEwiRg/dAJF9YlbsduBAgtYLi+8cFg==
+
 private@^0.1.8:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/private/-/private-0.1.8.tgz#2381edb3689f7a53d653190060fcf822d2f368ff"
@@ -1944,3 +1954,8 @@ which@^1.2.9:
   integrity sha512-HxJdYWq1MTIQbJ3nw0cqssHoTNU267KlrDuGZ1WYlxDStUtKUhOaJmh112/TZmHxxUfuJqPXSOm7tDyas0OSIQ==
   dependencies:
     isexe "^2.0.0"
+
+wretch@^1.7.2:
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/wretch/-/wretch-1.7.2.tgz#03f8f875b45204e3d4d91583122368a803965bd5"
+  integrity sha512-VnA7uC9bGyIBGz4pK/iM9AVxsod4CwKoCBP7YClijlcU0FsckOXkyqLSV/cTykck8YszCD9r1Pci1p5n42Cocg==

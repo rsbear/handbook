@@ -1,0 +1,25 @@
+{
+  "files.exclude": {
+    ".git/": true,
+    "node_modules/": false,
+    "dist/": false
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/public": true
+  },
+  "editor.tabSize": 2,
+  "[json]": {
+    "editor.formatOnSave": false
+  },
+  "[svelte]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "debug.node.autoAttach": "on"
+}
