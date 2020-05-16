@@ -15,6 +15,7 @@
       })
       .res(res => console.log(res));
   }
+  // why am i getting 404
 </script>
 
 <form>
